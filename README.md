@@ -14,7 +14,7 @@ Hi soy Alex, tengo 26 años, actualmente me encuentro arrancando mi carrera de p
 
 
 
-## Formas de contactarme point_down: 
+## Formas de contactarme :point_down: 
 
 
 
