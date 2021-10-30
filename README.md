@@ -11,6 +11,8 @@ Hi soy Alex, tengo 26 años, actualmente me encuentro arrancando mi carrera de p
 ![](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black)
 ![javascript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black)
+
 
 
 
