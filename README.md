@@ -1,8 +1,9 @@
 # lavalalex
 Hi soy Alex, tengo 26 años, actualmente me encuentro arrancando mi carrera de programador que sin dudas es una de mis pasiones junto al de las tecnologías, me encanta todo el mundo cripto.
 
+[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lavalalexander@gmail.com)
 
-
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lavalalex/)
 
 
 
