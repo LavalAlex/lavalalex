@@ -1,10 +1,15 @@
 # lavalalex
 Hi soy Alex, tengo 26 años, actualmente me encuentro arrancando mi carrera de programador que sin dudas es una de mis pasiones junto al de las tecnologías, me encanta todo el mundo cripto.
 
-![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![react](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=Express&logoColor=white)
+![redux](https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=Redux&logoColor=black)
+![postgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=black)
 
-![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=black)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+
+![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Html&logoColor=black)
+![javascript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lavalalexander@gmail.com)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lavalalex/)
