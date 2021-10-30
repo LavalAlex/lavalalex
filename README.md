@@ -14,6 +14,8 @@ Hi soy Alex, tengo 26 años, actualmente me encuentro arrancando mi carrera de p
 
 ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black)
 ![javascript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lavalalexander@gmail.com)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lavalalex/)
