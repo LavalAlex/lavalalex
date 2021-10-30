@@ -1,4 +1,4 @@
-# lavalalex
+# Algo sobre mi...
 Hi soy Alex, tengo 26 años, actualmente me encuentro arrancando mi carrera de programador que sin dudas es una de mis pasiones junto al de las tecnologías, me encanta todo el mundo cripto.
 
 ![react](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black)
@@ -6,7 +6,7 @@ Hi soy Alex, tengo 26 años, actualmente me encuentro arrancando mi carrera de p
 ![redux](https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=Redux&logoColor=black)
 ![postgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=black)
 ![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=black)
-![node](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black)
+!(https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black)
 
 
 
